@@ -14,7 +14,7 @@ import kotlinx.android.synthetic.main.activity_login.*
 class LoginActivity : AppCompatActivity(), View.OnClickListener {
     private var auth: FirebaseAuth? = null
     private val RC_SIGN_IN = 1
-    //
+    
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
