@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509619057772",
+    "project_id": "tugasrinda-567fe",
+    "storage_bucket": "tugasrinda-567fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509619057772:android:b84439cbb82fc2708bd449",
+        "android_client_info": {
+          "package_name": "com.tugas.tugasrinda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509619057772-elt5odo7up6hmvf5360adhllsq26v36r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tugas.tugasrinda",
+            "certificate_hash": "3c257e060fd18e662ade7bf0a5573f88298d8290"
+          }
+        },
+        {
+          "client_id": "509619057772-t24h5546dg1j4dcmvn5js2pgsfvovak4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvDVuIOzhEFxgpD4FCLso2vvplrJuWwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509619057772-t24h5546dg1j4dcmvn5js2pgsfvovak4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
